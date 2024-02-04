@@ -1,0 +1,12 @@
+asyncio
+pyaes
+Pyrogram
+pyromod
+PySocks
+python-dotenv
+pytz
+TgCrypto
+uvloop
+git+https://github.com/npdkdev/pickledb_ujson
+aiohttp
+aiohttp-cors
